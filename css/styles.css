@@ -307,6 +307,11 @@ svg {
   vertical-align: middle;
 }
 
+.prevImg {
+  max-width: 49%;
+  height:auto;
+}
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
